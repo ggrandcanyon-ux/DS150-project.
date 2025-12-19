@@ -1,0 +1,543 @@
+WeekNumber,TeamWithPossession,Yards
+1.0,Arizona Cardinals,11.4
+1.0,Atlanta Falcons,12.685714285714285
+1.0,Baltimore Ravens,10.06
+1.0,Buffalo Bills,10.289156626506024
+1.0,Carolina Panthers,12.939024390243903
+1.0,Chicago Bears,9.876712328767123
+1.0,Cincinnati Bengals,13.885245901639344
+1.0,Cleveland Browns,11.287128712871286
+1.0,Dallas Cowboys,11.951807228915662
+1.0,Denver Broncos,13.308510638297872
+1.0,Detroit Lions,13.291139240506329
+1.0,Green Bay Packers,12.258426966292134
+1.0,Houston Texans,9.215686274509803
+1.0,Indianapolis Colts,15.288135593220339
+1.0,Jacksonville Jaguars,13.242857142857142
+1.0,Kansas City Chiefs,12.301369863013699
+1.0,Las Vegas Raiders,14.108108108108109
+1.0,Los Angeles Chargers,11.860759493670885
+1.0,Los Angeles Rams,9.833333333333334
+1.0,Miami Dolphins,9.736842105263158
+1.0,Minnesota Vikings,9.732394366197184
+1.0,New England Patriots,9.551724137931034
+1.0,New Orleans Saints,9.506172839506172
+1.0,New York Giants,9.955056179775282
+1.0,New York Jets,15.8
+1.0,Philadelphia Eagles,10.441176470588236
+1.0,Pittsburgh Steelers,9.6
+1.0,San Francisco 49ers,10.326086956521738
+1.0,Seattle Seahawks,10.725274725274724
+1.0,Tampa Bay Buccaneers,9.475
+1.0,Tennessee Titans,12.411764705882353
+1.0,Washington Commanders,13.538461538461538
+2.0,Arizona Cardinals,10.73076923076923
+2.0,Atlanta Falcons,11.480519480519481
+2.0,Baltimore Ravens,12.73913043478261
+2.0,Buffalo Bills,11.163934426229508
+2.0,Carolina Panthers,12.757575757575758
+2.0,Chicago Bears,11.173913043478262
+2.0,Cincinnati Bengals,10.273809523809524
+2.0,Cleveland Browns,9.436170212765957
+2.0,Dallas Cowboys,12.909090909090908
+2.0,Denver Broncos,11.35064935064935
+2.0,Detroit Lions,9.25
+2.0,Green Bay Packers,9.0
+2.0,Houston Texans,12.011904761904763
+2.0,Indianapolis Colts,13.455882352941176
+2.0,Jacksonville Jaguars,12.723684210526315
+2.0,Kansas City Chiefs,11.512195121951219
+2.0,Las Vegas Raiders,12.819277108433734
+2.0,Los Angeles Chargers,8.481927710843374
+2.0,Los Angeles Rams,14.681159420289855
+2.0,Miami Dolphins,8.90625
+2.0,Minnesota Vikings,11.716216216216216
+2.0,New England Patriots,12.63953488372093
+2.0,New Orleans Saints,11.173333333333334
+2.0,New York Giants,12.176470588235293
+2.0,New York Jets,10.866666666666667
+2.0,Philadelphia Eagles,9.651685393258427
+2.0,Pittsburgh Steelers,10.866666666666667
+2.0,San Francisco 49ers,10.232558139534884
+2.0,Seattle Seahawks,11.242105263157894
+2.0,Tampa Bay Buccaneers,13.757575757575758
+2.0,Tennessee Titans,10.941176470588236
+2.0,Washington Commanders,8.854166666666666
+3.0,Arizona Cardinals,12.486486486486486
+3.0,Atlanta Falcons,12.23076923076923
+3.0,Baltimore Ravens,10.797619047619047
+3.0,Buffalo Bills,8.9625
+3.0,Carolina Panthers,9.89247311827957
+3.0,Chicago Bears,8.710280373831775
+3.0,Cincinnati Bengals,12.268292682926829
+3.0,Cleveland Browns,10.337349397590362
+3.0,Dallas Cowboys,11.24742268041237
+3.0,Denver Broncos,9.0625
+3.0,Detroit Lions,8.920454545454545
+3.0,Green Bay Packers,10.011627906976743
+3.0,Houston Texans,10.988505747126437
+3.0,Indianapolis Colts,10.986301369863014
+3.0,Jacksonville Jaguars,11.032967032967033
+3.0,Kansas City Chiefs,9.7
+3.0,Las Vegas Raiders,13.68235294117647
+3.0,Los Angeles Chargers,13.121212121212121
+3.0,Los Angeles Rams,11.779220779220779
+3.0,Miami Dolphins,11.20253164556962
+3.0,Minnesota Vikings,9.27710843373494
+3.0,New England Patriots,11.8125
+3.0,New Orleans Saints,9.173913043478262
+3.0,New York Giants,9.903225806451612
+3.0,New York Jets,8.455555555555556
+3.0,Philadelphia Eagles,9.272727272727273
+3.0,Pittsburgh Steelers,10.433734939759036
+3.0,San Francisco 49ers,11.101123595505618
+3.0,Seattle Seahawks,10.0
+3.0,Tampa Bay Buccaneers,13.140845070422536
+3.0,Tennessee Titans,12.44927536231884
+3.0,Washington Commanders,10.194805194805195
+4.0,Arizona Cardinals,12.493150684931507
+4.0,Atlanta Falcons,13.291666666666666
+4.0,Baltimore Ravens,11.222222222222221
+4.0,Buffalo Bills,12.922077922077921
+4.0,Carolina Panthers,11.5
+4.0,Chicago Bears,11.457831325301205
+4.0,Cincinnati Bengals,10.747252747252746
+4.0,Cleveland Browns,12.368421052631579
+4.0,Dallas Cowboys,13.506849315068493
+4.0,Denver Broncos,10.2
+4.0,Detroit Lions,11.985915492957746
+4.0,Green Bay Packers,12.287234042553191
+4.0,Houston Texans,10.13265306122449
+4.0,Indianapolis Colts,11.071428571428571
+4.0,Jacksonville Jaguars,12.706666666666667
+4.0,Kansas City Chiefs,10.379746835443038
+4.0,Las Vegas Raiders,11.253333333333334
+4.0,Los Angeles Chargers,11.413333333333334
+4.0,Los Angeles Rams,12.276315789473685
+4.0,Miami Dolphins,12.987012987012987
+4.0,Minnesota Vikings,9.67741935483871
+4.0,New England Patriots,12.487804878048781
+4.0,New Orleans Saints,10.76842105263158
+4.0,New York Giants,10.036144578313253
+4.0,New York Jets,9.371134020618557
+4.0,Philadelphia Eagles,13.726027397260275
+4.0,Pittsburgh Steelers,10.862068965517242
+4.0,San Francisco 49ers,10.15
+4.0,Seattle Seahawks,11.99074074074074
+4.0,Tampa Bay Buccaneers,9.22340425531915
+4.0,Tennessee Titans,10.444444444444445
+4.0,Washington Commanders,9.264367816091953
+5.0,Arizona Cardinals,12.802631578947368
+5.0,Atlanta Falcons,12.481481481481481
+5.0,Baltimore Ravens,12.326530612244898
+5.0,Buffalo Bills,12.5875
+5.0,Carolina Panthers,13.153846153846153
+5.0,Chicago Bears,8.833333333333334
+5.0,Cincinnati Bengals,13.260416666666666
+5.0,Cleveland Browns,11.944444444444445
+5.0,Dallas Cowboys,9.268041237113403
+5.0,Denver Broncos,9.720930232558139
+5.0,Green Bay Packers,9.69047619047619
+5.0,Houston Texans,12.164835164835164
+5.0,Indianapolis Colts,12.98936170212766
+5.0,Jacksonville Jaguars,14.430379746835444
+5.0,Kansas City Chiefs,9.107843137254902
+5.0,Las Vegas Raiders,12.284090909090908
+5.0,Los Angeles Rams,8.633333333333333
+5.0,Miami Dolphins,8.89010989010989
+5.0,Minnesota Vikings,9.673913043478262
+5.0,New England Patriots,12.576923076923077
+5.0,New Orleans Saints,12.36111111111111
+5.0,New York Giants,12.918604651162791
+5.0,New York Jets,11.50561797752809
+5.0,Pittsburgh Steelers,10.960526315789474
+5.0,San Francisco 49ers,11.23076923076923
+5.0,Seattle Seahawks,13.8375
+5.0,Tampa Bay Buccaneers,13.23943661971831
+5.0,Washington Commanders,11.349397590361447
+6.0,Arizona Cardinals,13.50632911392405
+6.0,Atlanta Falcons,10.125
+6.0,Baltimore Ravens,12.363636363636363
+6.0,Buffalo Bills,9.373626373626374
+6.0,Carolina Panthers,12.255813953488373
+6.0,Chicago Bears,9.273809523809524
+6.0,Cincinnati Bengals,10.91304347826087
+6.0,Cleveland Browns,12.527027027027026
+6.0,Dallas Cowboys,14.255813953488373
+6.0,Denver Broncos,13.625
+6.0,Detroit Lions,10.453488372093023
+6.0,Green Bay Packers,9.684782608695652
+6.0,Houston Texans,11.831325301204819
+6.0,Indianapolis Colts,10.781609195402298
+6.0,Jacksonville Jaguars,11.592105263157896
+6.0,Las Vegas Raiders,12.571428571428571
+6.0,Los Angeles Chargers,8.377551020408163
+6.0,New England Patriots,13.104651162790697
+6.0,New Orleans Saints,13.733333333333333
+6.0,New York Giants,9.815217391304348
+6.0,New York Jets,11.45
+6.0,Philadelphia Eagles,11.686746987951807
+6.0,Pittsburgh Steelers,8.232558139534884
+6.0,San Francisco 49ers,12.373493975903614
+6.0,Seattle Seahawks,10.91
+6.0,Tampa Bay Buccaneers,11.61
+6.0,Tennessee Titans,11.415584415584416
+6.0,Washington Commanders,13.772151898734178
+7.0,Arizona Cardinals,11.538461538461538
+7.0,Atlanta Falcons,11.23913043478261
+7.0,Baltimore Ravens,11.5625
+7.0,Buffalo Bills,11.985714285714286
+7.0,Carolina Panthers,18.25423728813559
+7.0,Cincinnati Bengals,10.0
+7.0,Cleveland Browns,10.245098039215685
+7.0,Denver Broncos,10.025316455696203
+7.0,Detroit Lions,12.964285714285714
+7.0,Green Bay Packers,14.106666666666667
+7.0,Houston Texans,10.792682926829269
+7.0,Indianapolis Colts,11.130952380952381
+7.0,Jacksonville Jaguars,9.64864864864865
+7.0,Kansas City Chiefs,8.904761904761905
+7.0,Las Vegas Raiders,9.39
+7.0,Los Angeles Chargers,10.9875
+7.0,Los Angeles Rams,12.5
+7.0,Miami Dolphins,10.770114942528735
+7.0,Minnesota Vikings,13.786666666666667
+7.0,New England Patriots,11.721518987341772
+7.0,New Orleans Saints,11.357894736842105
+7.0,New York Giants,12.425
+7.0,New York Jets,13.974358974358974
+7.0,Philadelphia Eagles,10.267441860465116
+7.0,Pittsburgh Steelers,10.383720930232558
+7.0,San Francisco 49ers,12.012658227848101
+7.0,Seattle Seahawks,10.480519480519481
+7.0,Tampa Bay Buccaneers,11.534653465346535
+7.0,Tennessee Titans,11.075268817204302
+7.0,Washington Commanders,8.571428571428571
+8.0,Arizona Cardinals,12.28735632183908
+8.0,Atlanta Falcons,10.903614457831326
+8.0,Baltimore Ravens,12.88888888888889
+8.0,Buffalo Bills,8.357142857142858
+8.0,Carolina Panthers,11.0
+8.0,Chicago Bears,11.88888888888889
+8.0,Cincinnati Bengals,12.535211267605634
+8.0,Cleveland Browns,10.758620689655173
+8.0,Dallas Cowboys,12.177215189873417
+8.0,Denver Broncos,7.7444444444444445
+8.0,Detroit Lions,12.587301587301587
+8.0,Green Bay Packers,11.876288659793815
+8.0,Houston Texans,11.32258064516129
+8.0,Indianapolis Colts,12.30952380952381
+8.0,Jacksonville Jaguars,14.896103896103897
+8.0,Kansas City Chiefs,8.24731182795699
+8.0,Las Vegas Raiders,11.08108108108108
+8.0,Los Angeles Chargers,11.651162790697674
+8.0,Los Angeles Rams,9.13978494623656
+8.0,Miami Dolphins,10.75
+8.0,Minnesota Vikings,12.121212121212121
+8.0,New England Patriots,10.107142857142858
+8.0,New Orleans Saints,14.305263157894737
+8.0,New York Giants,12.451612903225806
+8.0,New York Jets,11.107142857142858
+8.0,Philadelphia Eagles,10.1125
+8.0,Pittsburgh Steelers,11.829545454545455
+8.0,San Francisco 49ers,11.10752688172043
+8.0,Seattle Seahawks,12.753623188405797
+8.0,Tampa Bay Buccaneers,10.33695652173913
+8.0,Tennessee Titans,13.770833333333334
+8.0,Washington Commanders,11.53763440860215
+9.0,Arizona Cardinals,11.671052631578947
+9.0,Atlanta Falcons,10.116883116883116
+9.0,Baltimore Ravens,11.633802816901408
+9.0,Buffalo Bills,11.414634146341463
+9.0,Carolina Panthers,12.465753424657533
+9.0,Chicago Bears,10.604395604395604
+9.0,Cincinnati Bengals,10.302083333333334
+9.0,Cleveland Browns,10.53061224489796
+9.0,Dallas Cowboys,9.28125
+9.0,Denver Broncos,11.044943820224718
+9.0,Detroit Lions,9.45945945945946
+9.0,Green Bay Packers,11.487804878048781
+9.0,Houston Texans,9.291666666666666
+9.0,Indianapolis Colts,11.818181818181818
+9.0,Jacksonville Jaguars,13.292307692307693
+9.0,Kansas City Chiefs,9.457142857142857
+9.0,Las Vegas Raiders,13.876543209876543
+9.0,Los Angeles Chargers,11.571428571428571
+9.0,Los Angeles Rams,10.195876288659793
+9.0,Miami Dolphins,11.7
+9.0,Minnesota Vikings,8.741935483870968
+9.0,New England Patriots,10.10344827586207
+9.0,New Orleans Saints,10.224489795918368
+9.0,New York Giants,11.197368421052632
+9.0,New York Jets,10.726027397260275
+9.0,Philadelphia Eagles,9.393939393939394
+9.0,Seattle Seahawks,11.772277227722773
+9.0,Tampa Bay Buccaneers,11.561643835616438
+9.0,Tennessee Titans,9.05940594059406
+9.0,Washington Commanders,10.8375
+10.0,Arizona Cardinals,9.356164383561644
+10.0,Atlanta Falcons,11.285714285714286
+10.0,Baltimore Ravens,11.19277108433735
+10.0,Buffalo Bills,10.094736842105263
+10.0,Carolina Panthers,11.488095238095237
+10.0,Chicago Bears,9.817073170731707
+10.0,Cincinnati Bengals,10.23
+10.0,Dallas Cowboys,13.131578947368421
+10.0,Denver Broncos,11.037974683544304
+10.0,Detroit Lions,11.976744186046512
+10.0,Houston Texans,11.829545454545455
+10.0,Indianapolis Colts,11.317073170731707
+10.0,Jacksonville Jaguars,13.086206896551724
+10.0,Kansas City Chiefs,9.404761904761905
+10.0,Los Angeles Chargers,9.493333333333334
+10.0,Los Angeles Rams,12.261363636363637
+10.0,Miami Dolphins,11.985714285714286
+10.0,Minnesota Vikings,7.8686868686868685
+10.0,New England Patriots,9.976470588235294
+10.0,New Orleans Saints,12.8
+10.0,New York Giants,11.221052631578948
+10.0,New York Jets,10.671641791044776
+10.0,Philadelphia Eagles,9.758620689655173
+10.0,Pittsburgh Steelers,9.282828282828282
+10.0,San Francisco 49ers,13.0125
+10.0,Tampa Bay Buccaneers,11.5
+10.0,Tennessee Titans,12.878378378378379
+10.0,Washington Commanders,12.25301204819277
+11.0,Atlanta Falcons,13.220779220779221
+11.0,Baltimore Ravens,14.320512820512821
+11.0,Buffalo Bills,9.28888888888889
+11.0,Chicago Bears,9.417582417582418
+11.0,Cincinnati Bengals,12.028301886792454
+11.0,Cleveland Browns,11.926315789473684
+11.0,Dallas Cowboys,10.02
+11.0,Denver Broncos,9.345679012345679
+11.0,Detroit Lions,9.146067415730338
+11.0,Green Bay Packers,13.945454545454545
+11.0,Houston Texans,11.367088607594937
+11.0,Indianapolis Colts,11.897727272727273
+11.0,Jacksonville Jaguars,16.314285714285713
+11.0,Kansas City Chiefs,10.871428571428572
+11.0,Las Vegas Raiders,11.05
+11.0,Los Angeles Chargers,13.438202247191011
+11.0,Los Angeles Rams,12.324675324675324
+11.0,Miami Dolphins,8.717647058823529
+11.0,Minnesota Vikings,9.526881720430108
+11.0,New England Patriots,9.946236559139784
+11.0,New Orleans Saints,10.35135135135135
+11.0,New York Jets,14.602739726027398
+11.0,Philadelphia Eagles,10.224719101123595
+11.0,Pittsburgh Steelers,10.137254901960784
+11.0,San Francisco 49ers,8.695121951219512
+11.0,Seattle Seahawks,9.855263157894736
+11.0,Tennessee Titans,12.013333333333334
+11.0,Washington Commanders,11.728395061728396
+12.0,Arizona Cardinals,12.894736842105264
+12.0,Baltimore Ravens,10.60759493670886
+12.0,Carolina Panthers,12.049382716049383
+12.0,Chicago Bears,13.1010101010101
+12.0,Cleveland Browns,9.486842105263158
+12.0,Dallas Cowboys,11.150537634408602
+12.0,Denver Broncos,11.48913043478261
+12.0,Detroit Lions,9.593023255813954
+12.0,Green Bay Packers,8.382022471910112
+12.0,Houston Texans,13.118421052631579
+12.0,Indianapolis Colts,13.405797101449275
+12.0,Kansas City Chiefs,10.239583333333334
+12.0,Las Vegas Raiders,12.27
+12.0,Los Angeles Chargers,10.868131868131869
+12.0,Los Angeles Rams,12.9
+12.0,Miami Dolphins,10.01123595505618
+12.0,Minnesota Vikings,10.164835164835164
+12.0,New England Patriots,11.172413793103448
+12.0,New York Giants,10.91891891891892
+12.0,Philadelphia Eagles,9.21505376344086
+12.0,Pittsburgh Steelers,9.318181818181818
+12.0,San Francisco 49ers,13.830769230769231
+12.0,Seattle Seahawks,9.58974358974359
+12.0,Tampa Bay Buccaneers,8.897435897435898
+12.0,Tennessee Titans,13.063157894736841
+12.0,Washington Commanders,13.876404494382022
+13.0,Arizona Cardinals,9.724770642201834
+13.0,Atlanta Falcons,10.010526315789473
+13.0,Baltimore Ravens,11.619565217391305
+13.0,Buffalo Bills,9.618421052631579
+13.0,Carolina Panthers,10.989583333333334
+13.0,Chicago Bears,10.939759036144578
+13.0,Cincinnati Bengals,12.457831325301205
+13.0,Cleveland Browns,14.769911504424778
+13.0,Dallas Cowboys,10.402173913043478
+13.0,Denver Broncos,13.270588235294118
+13.0,Detroit Lions,10.69767441860465
+13.0,Green Bay Packers,11.705128205128204
+13.0,Houston Texans,12.20253164556962
+13.0,Indianapolis Colts,10.2987012987013
+13.0,Jacksonville Jaguars,11.641304347826088
+13.0,Kansas City Chiefs,10.787234042553191
+13.0,Las Vegas Raiders,12.96551724137931
+13.0,Los Angeles Chargers,11.916666666666666
+13.0,Los Angeles Rams,10.228571428571428
+13.0,Miami Dolphins,10.068181818181818
+13.0,Minnesota Vikings,14.441176470588236
+13.0,New England Patriots,10.822222222222223
+13.0,New Orleans Saints,9.658823529411764
+13.0,New York Giants,11.2
+13.0,New York Jets,11.024390243902438
+13.0,Philadelphia Eagles,11.210526315789474
+13.0,Pittsburgh Steelers,12.553191489361701
+13.0,San Francisco 49ers,13.476923076923077
+13.0,Seattle Seahawks,10.064102564102564
+13.0,Tampa Bay Buccaneers,12.18348623853211
+13.0,Tennessee Titans,12.95945945945946
+13.0,Washington Commanders,9.349514563106796
+14.0,Arizona Cardinals,12.080459770114942
+14.0,Atlanta Falcons,10.795698924731182
+14.0,Buffalo Bills,13.901234567901234
+14.0,Carolina Panthers,8.416666666666666
+14.0,Chicago Bears,13.161764705882353
+14.0,Cincinnati Bengals,10.295454545454545
+14.0,Cleveland Browns,10.75268817204301
+14.0,Dallas Cowboys,12.525641025641026
+14.0,Detroit Lions,9.382352941176471
+14.0,Green Bay Packers,12.367647058823529
+14.0,Jacksonville Jaguars,9.906666666666666
+14.0,Kansas City Chiefs,9.988888888888889
+14.0,Las Vegas Raiders,10.316455696202532
+14.0,Los Angeles Chargers,11.615384615384615
+14.0,Los Angeles Rams,10.428571428571429
+14.0,Miami Dolphins,13.404255319148936
+14.0,Minnesota Vikings,11.617283950617283
+14.0,New Orleans Saints,10.0
+14.0,New York Giants,9.166666666666666
+14.0,New York Jets,11.817204301075268
+14.0,Philadelphia Eagles,9.93421052631579
+14.0,Pittsburgh Steelers,10.404761904761905
+14.0,San Francisco 49ers,9.518987341772151
+14.0,Seattle Seahawks,11.662790697674419
+14.0,Tampa Bay Buccaneers,10.3125
+14.0,Tennessee Titans,9.173333333333334
+15.0,Arizona Cardinals,9.588235294117647
+15.0,Atlanta Falcons,11.325
+15.0,Baltimore Ravens,9.037974683544304
+15.0,Buffalo Bills,11.115789473684211
+15.0,Carolina Panthers,11.909090909090908
+15.0,Chicago Bears,11.096385542168674
+15.0,Cincinnati Bengals,7.163265306122449
+15.0,Cleveland Browns,11.675675675675675
+15.0,Dallas Cowboys,9.319148936170214
+15.0,Denver Broncos,9.731707317073171
+15.0,Detroit Lions,13.11
+15.0,Green Bay Packers,10.685393258426966
+15.0,Houston Texans,10.880597014925373
+15.0,Indianapolis Colts,11.22340425531915
+15.0,Jacksonville Jaguars,10.405940594059405
+15.0,Kansas City Chiefs,8.816326530612244
+15.0,Las Vegas Raiders,8.258823529411766
+15.0,Los Angeles Chargers,14.318840579710145
+15.0,Los Angeles Rams,10.788235294117648
+15.0,Miami Dolphins,9.988095238095237
+15.0,Minnesota Vikings,7.594059405940594
+15.0,New England Patriots,15.138461538461538
+15.0,New Orleans Saints,12.126760563380282
+15.0,New York Giants,10.390243902439025
+15.0,New York Jets,13.56578947368421
+15.0,San Francisco 49ers,13.228571428571428
+15.0,Seattle Seahawks,13.445945945945946
+15.0,Tampa Bay Buccaneers,10.224719101123595
+15.0,Tennessee Titans,11.654761904761905
+15.0,Washington Commanders,7.948453608247423
+16.0,Arizona Cardinals,10.827956989247312
+16.0,Atlanta Falcons,8.795180722891565
+16.0,Baltimore Ravens,10.512820512820513
+16.0,Buffalo Bills,9.179487179487179
+16.0,Carolina Panthers,12.277777777777779
+16.0,Chicago Bears,11.433734939759036
+16.0,Cincinnati Bengals,10.486486486486486
+16.0,Cleveland Browns,9.447368421052632
+16.0,Dallas Cowboys,12.964705882352941
+16.0,Denver Broncos,12.352941176470589
+16.0,Detroit Lions,10.702380952380953
+16.0,Green Bay Packers,8.060240963855422
+16.0,Houston Texans,11.381578947368421
+16.0,Indianapolis Colts,12.581395348837209
+16.0,Jacksonville Jaguars,10.369047619047619
+16.0,Kansas City Chiefs,9.45054945054945
+16.0,Las Vegas Raiders,9.64516129032258
+16.0,Los Angeles Chargers,11.865853658536585
+16.0,Los Angeles Rams,7.769230769230769
+16.0,Miami Dolphins,11.759036144578314
+16.0,Minnesota Vikings,11.862068965517242
+16.0,New England Patriots,9.204301075268818
+16.0,New Orleans Saints,11.013333333333334
+16.0,New York Giants,11.79746835443038
+16.0,New York Jets,8.036585365853659
+16.0,Philadelphia Eagles,11.52
+16.0,Pittsburgh Steelers,13.948717948717949
+16.0,San Francisco 49ers,13.034883720930232
+16.0,Seattle Seahawks,12.827586206896552
+16.0,Tampa Bay Buccaneers,11.303370786516854
+16.0,Tennessee Titans,14.25
+16.0,Washington Commanders,11.710843373493976
+17.0,Arizona Cardinals,8.806451612903226
+17.0,Atlanta Falcons,11.5125
+17.0,Baltimore Ravens,9.626666666666667
+17.0,Buffalo Bills,8.784090909090908
+17.0,Carolina Panthers,16.176470588235293
+17.0,Chicago Bears,9.448717948717949
+17.0,Cincinnati Bengals,8.964601769911505
+17.0,Cleveland Browns,9.373626373626374
+17.0,Dallas Cowboys,14.078947368421053
+17.0,Denver Broncos,10.6125
+17.0,Detroit Lions,9.576470588235294
+17.0,Green Bay Packers,10.118421052631579
+17.0,Houston Texans,13.859154929577464
+17.0,Indianapolis Colts,12.385416666666666
+17.0,Jacksonville Jaguars,9.5
+17.0,Kansas City Chiefs,10.645569620253164
+17.0,Las Vegas Raiders,9.147368421052631
+17.0,Los Angeles Chargers,8.797872340425531
+17.0,Los Angeles Rams,10.447368421052632
+17.0,Miami Dolphins,9.9875
+17.0,Minnesota Vikings,10.711340206185566
+17.0,New England Patriots,14.676470588235293
+17.0,New Orleans Saints,13.39240506329114
+17.0,New York Giants,12.658227848101266
+17.0,New York Jets,10.723684210526315
+17.0,Philadelphia Eagles,8.290697674418604
+17.0,Pittsburgh Steelers,10.955056179775282
+17.0,San Francisco 49ers,14.060240963855422
+17.0,Seattle Seahawks,11.287878787878787
+17.0,Tampa Bay Buccaneers,9.428571428571429
+17.0,Tennessee Titans,9.829545454545455
+17.0,Washington Commanders,9.184466019417476
+18.0,Arizona Cardinals,11.735632183908047
+18.0,Atlanta Falcons,10.948453608247423
+18.0,Baltimore Ravens,8.707865168539326
+18.0,Buffalo Bills,9.709302325581396
+18.0,Carolina Panthers,12.735632183908047
+18.0,Chicago Bears,11.108433734939759
+18.0,Cincinnati Bengals,8.83157894736842
+18.0,Cleveland Browns,12.28
+18.0,Dallas Cowboys,9.836538461538462
+18.0,Denver Broncos,7.413793103448276
+18.0,Detroit Lions,8.965116279069768
+18.0,Green Bay Packers,10.423076923076923
+18.0,Houston Texans,9.927710843373495
+18.0,Indianapolis Colts,13.484848484848484
+18.0,Jacksonville Jaguars,12.10989010989011
+18.0,Kansas City Chiefs,17.632653061224488
+18.0,Las Vegas Raiders,15.347826086956522
+18.0,Los Angeles Chargers,9.969072164948454
+18.0,Los Angeles Rams,13.152941176470588
+18.0,Miami Dolphins,9.7
+18.0,Minnesota Vikings,11.45679012345679
+18.0,New England Patriots,9.74390243902439
+18.0,New Orleans Saints,11.03448275862069
+18.0,New York Giants,11.073529411764707
+18.0,New York Jets,10.975
+18.0,Philadelphia Eagles,8.68131868131868
+18.0,Pittsburgh Steelers,9.615384615384615
+18.0,San Francisco 49ers,12.357894736842105
+18.0,Seattle Seahawks,14.154929577464788
+18.0,Tampa Bay Buccaneers,10.364705882352942
+18.0,Tennessee Titans,11.644736842105264
+18.0,Washington Commanders,11.896103896103897
